@@ -5,6 +5,7 @@
 #include <string.h>
 #include <ctype.h>
 #include "timeoper.h"
+#include "logfunction.h"
 
 #define		_ERRLOG_C_
 
